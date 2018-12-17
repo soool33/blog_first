@@ -1,0 +1,48 @@
+
+.logo
+{
+  width:70px;  
+}
+header
+{
+    background-color:rgb(233, 227, 227);
+}
+footer
+{
+    background-color:rgb(233, 227, 227);
+}
+.ins
+{
+    background-color:rgb(226, 65, 156);
+    margin-left:800px;
+    
+}
+.con
+{
+    background-color:rgb(226, 65, 156);
+    margin-left:25px;
+}
+.newPost
+{
+    font-size:50px;
+}
+.photos
+{
+    width:300px;
+}
+.btn
+{
+    background-color:rgb(226, 65, 156); 
+    color:white;
+}
+.help-inline
+{
+    color:red;
+}
+ #by {
+    padding: 12px;
+ }
+ #connexion
+ {
+     text-align: center;
+ }
